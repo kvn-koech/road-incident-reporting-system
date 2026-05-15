@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+backend/venv/
+backend/__pycache__/
+backend/*.db
+dist/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
